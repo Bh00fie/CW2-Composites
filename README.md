@@ -96,3 +96,15 @@ Using ply thickness and stacking sequences, theoretical values for Ex and Ey wer
    ```bash
    git clone https://github.com/Bh00fie/CW2-Composites.git
    cd CW2-Composites
+
+## Citation
+
+This work is part of the **SESG6039 – Composites Engineering Design and Mechanics** coursework.
+
+> **Author**: Abhinandan Thour  
+> **Student ID**: 32453515  
+> **University**: University of Southampton  
+> **Year**: 2024  
+
+For detailed insights, refer to the [report](SESG6039%20%E2%80%93%20Composites%20CW2%20-%20Abhinandan%20Thour.pdf).
+
